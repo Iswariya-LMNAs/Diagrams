@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.14">
   <diagram name="Page-1" id="y4f-Fp8S1NzeUtQ3RsJ0">
-    <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dRdN8C4UgrvtnP99j4bF-1" value="Instance" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="360" height="620" as="geometry" />
+          <mxGeometry x="170" y="190" width="360" height="530" as="geometry" />
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-5" value="Reachability Test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRdN8C4UgrvtnP99j4bF-1">
           <mxGeometry x="95" y="50" width="170" height="40" as="geometry" />
@@ -14,58 +14,125 @@
           <mxGeometry x="95" y="140" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-10" value="Desk Menu Test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRdN8C4UgrvtnP99j4bF-1">
-          <mxGeometry x="90" y="220" width="170" height="40" as="geometry" />
+          <mxGeometry x="90" y="235" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-11" value="Desk Menu Access Test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRdN8C4UgrvtnP99j4bF-1">
-          <mxGeometry x="95" y="310" width="170" height="40" as="geometry" />
+          <mxGeometry x="90" y="340" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dRdN8C4UgrvtnP99j4bF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="70" as="sourcePoint" />
+            <mxPoint x="440" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dRdN8C4UgrvtnP99j4bF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="160" as="sourcePoint" />
+            <mxPoint x="730" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-36" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.012;entryY=0.315;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dRdN8C4UgrvtnP99j4bF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="260" as="sourcePoint" />
+            <mxPoint x="426.8800000000001" y="260.95000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="261" />
+              <mxPoint x="350" y="261" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-12" value="API Access Test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRdN8C4UgrvtnP99j4bF-1">
+          <mxGeometry x="95" y="440" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.02;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dRdN8C4UgrvtnP99j4bF-1" target="dRdN8C4UgrvtnP99j4bF-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="360" as="sourcePoint" />
+            <mxPoint x="350" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dRdN8C4UgrvtnP99j4bF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="460" as="sourcePoint" />
+            <mxPoint x="430" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-2" value="Infra Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="50" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-3" value="Tester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="380" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-4" value="Upgrade/Migrate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="80" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dRdN8C4UgrvtnP99j4bF-12" value="API Access Test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="590" width="170" height="40" as="geometry" />
+          <mxGeometry x="265" y="100" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="100" as="sourcePoint" />
-            <mxPoint x="400" y="100" as="targetPoint" />
+            <mxPoint x="110" y="120" as="sourcePoint" />
+            <mxPoint x="220" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="370" as="sourcePoint" />
-            <mxPoint x="400" y="260" as="targetPoint" />
+            <mxPoint x="100" y="370" as="sourcePoint" />
+            <mxPoint x="250" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="390" as="sourcePoint" />
-            <mxPoint x="400" y="360" as="targetPoint" />
+            <mxPoint x="100" y="390" as="sourcePoint" />
+            <mxPoint x="250" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="420" as="sourcePoint" />
-            <mxPoint x="400" y="420" as="targetPoint" />
+            <mxPoint x="100" y="420" as="sourcePoint" />
+            <mxPoint x="250" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="440" as="sourcePoint" />
-            <mxPoint x="400" y="510" as="targetPoint" />
+            <mxPoint x="100" y="440" as="sourcePoint" />
+            <mxPoint x="250" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dRdN8C4UgrvtnP99j4bF-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="470" as="sourcePoint" />
-            <mxPoint x="410" y="590" as="targetPoint" />
+            <mxPoint x="90" y="470" as="sourcePoint" />
+            <mxPoint x="260" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-24" value="Testing Environment" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="840" width="360" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-25" value="Reachability Test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRdN8C4UgrvtnP99j4bF-24">
+          <mxGeometry x="95" y="50" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-26" value="Login Test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRdN8C4UgrvtnP99j4bF-24">
+          <mxGeometry x="95" y="140" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-27" value="Desk Menu Test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRdN8C4UgrvtnP99j4bF-24">
+          <mxGeometry x="90" y="220" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-28" value="Desk Menu Access Test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRdN8C4UgrvtnP99j4bF-24">
+          <mxGeometry x="95" y="310" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-29" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="50" y="1030" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-32" value="&lt;div&gt;Define the target URL&lt;/div&gt;&lt;div&gt;The site should be reachable and the landing page should be visible &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-33" value="&lt;div&gt;Give the Email and password &lt;br&gt;&lt;/div&gt;&lt;div&gt;It should be logged in and the home page should be visible&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="280" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-35" value="Check the Menus available in the sidebar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-37" value="Click on any menu , it should be navigated to the respective page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="490" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dRdN8C4UgrvtnP99j4bF-40" value="The API Endpoint should be accessible for any custom doctype" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="610" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
