@@ -157,6 +157,9 @@
         <mxCell id="2OwA6HHTgpjWCk6-XKWX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-43" source="2OwA6HHTgpjWCk6-XKWX-2" target="2OwA6HHTgpjWCk6-XKWX-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2OwA6HHTgpjWCk6-XKWX-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.bandwidth_calculator;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-43">
+          <mxGeometry x="691" y="100" width="25" height="24.5" as="geometry" />
+        </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-44" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="CLJ9GDin2j8_AuySWexl-42" vertex="1">
           <mxGeometry x="1117" width="343" height="369" as="geometry">
             <mxRectangle width="343" height="369" as="alternateBounds" />
