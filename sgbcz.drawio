@@ -27,7 +27,7 @@
         <mxCell id="CLJ9GDin2j8_AuySWexl-56" value="Open Design Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-39">
           <mxGeometry x="83" y="55" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CLJ9GDin2j8_AuySWexl-69" value="Enter Design Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-39">
+        <mxCell id="CLJ9GDin2j8_AuySWexl-69" value="Enter HV &amp;amp; LV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-39">
           <mxGeometry x="367" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CLJ9GDin2j8_AuySWexl-39" source="CLJ9GDin2j8_AuySWexl-68" target="CLJ9GDin2j8_AuySWexl-69">
@@ -45,10 +45,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-79" value="Override Specific Values?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-39">
-          <mxGeometry x="522" y="45" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="45" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-78" value="Modify Values&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-39">
-          <mxGeometry x="502" y="151" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="151" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-39" source="CLJ9GDin2j8_AuySWexl-80" target="CLJ9GDin2j8_AuySWexl-90">
           <mxGeometry relative="1" as="geometry" />
@@ -92,14 +92,35 @@
         <mxCell id="CLJ9GDin2j8_AuySWexl-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-43" source="CLJ9GDin2j8_AuySWexl-70" target="CLJ9GDin2j8_AuySWexl-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLJ9GDin2j8_AuySWexl-70" value="Auto-populate Values" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-43">
+        <mxCell id="CLJ9GDin2j8_AuySWexl-70" value="Auto-populate Values based on HV &amp;amp; Design Config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-43">
           <mxGeometry x="367" y="47" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-75" value="Auto-fill Defaults" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-43">
           <mxGeometry x="366" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-88" value="Update Dependent Fields" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-43">
-          <mxGeometry x="502" y="47" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="47" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CLJ9GDin2j8_AuySWexl-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-43" source="CLJ9GDin2j8_AuySWexl-99" target="CLJ9GDin2j8_AuySWexl-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLJ9GDin2j8_AuySWexl-99" value="Auto-fill Defaults-um,AC phase,L1 phase of LV in Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-43">
+          <mxGeometry x="228" y="24" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CLJ9GDin2j8_AuySWexl-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-43" source="CLJ9GDin2j8_AuySWexl-101" target="CLJ9GDin2j8_AuySWexl-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLJ9GDin2j8_AuySWexl-101" value="Auto-fill Defaults- vector group,THDI,IP&amp;amp; UK in Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-43">
+          <mxGeometry x="228" y="116" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CLJ9GDin2j8_AuySWexl-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-43" source="CLJ9GDin2j8_AuySWexl-103" target="CLJ9GDin2j8_AuySWexl-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLJ9GDin2j8_AuySWexl-103" value="Auto-fill Defaults- Tapping plus/minus in High Voltage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-43">
+          <mxGeometry x="45" y="116" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CLJ9GDin2j8_AuySWexl-104" value="Auto-fill Defaults- Temperature rise &amp;amp; others in Transformer Environment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-43">
+          <mxGeometry x="45" y="211" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-44" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-42">
           <mxGeometry x="1030" width="220" height="290" as="geometry">
@@ -115,6 +136,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-37" source="CLJ9GDin2j8_AuySWexl-78" target="CLJ9GDin2j8_AuySWexl-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLJ9GDin2j8_AuySWexl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-37" source="CLJ9GDin2j8_AuySWexl-68" target="CLJ9GDin2j8_AuySWexl-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
