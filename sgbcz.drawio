@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CLJ9GDin2j8_AuySWexl-37" value="SGBCZ- Design Flow" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="81" y="80" width="2118.9999999999995" height="739" as="geometry" />
+          <mxGeometry x="80" y="80" width="2118.9999999999995" height="739" as="geometry" />
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-38" value="Design Engineer" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;strokeWidth=1;" parent="CLJ9GDin2j8_AuySWexl-37" vertex="1">
           <mxGeometry y="40" width="2118.9999999999995" height="330" as="geometry" />
@@ -180,6 +180,9 @@
         <mxCell id="JPz7TmFqemcX5jHhmIrL-9" value="Status Changes to Item Created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-44">
           <mxGeometry x="245" y="97" width="118" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JPz7TmFqemcX5jHhmIrL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-44" source="JPz7TmFqemcX5jHhmIrL-13" target="JPz7TmFqemcX5jHhmIrL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JPz7TmFqemcX5jHhmIrL-13" value="Autofill sales &amp;amp; administrative overhead,total cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-44">
           <mxGeometry x="413" y="199" width="118" height="60" as="geometry" />
         </mxCell>
@@ -200,6 +203,9 @@
         </mxCell>
         <mxCell id="JPz7TmFqemcX5jHhmIrL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-44" source="JPz7TmFqemcX5jHhmIrL-20" target="JPz7TmFqemcX5jHhmIrL-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPz7TmFqemcX5jHhmIrL-30" value="Generate and attach Datasheet in Item for created&amp;nbsp; design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-44">
+          <mxGeometry x="580" y="199" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-45" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="CLJ9GDin2j8_AuySWexl-42" vertex="1">
           <mxGeometry x="1859" width="260" height="369" as="geometry">
@@ -225,9 +231,6 @@
             <mxPoint x="2708" y="594" as="sourcePoint" />
             <mxPoint x="2709" y="889" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JPz7TmFqemcX5jHhmIrL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-37" source="JPz7TmFqemcX5jHhmIrL-13" target="JPz7TmFqemcX5jHhmIrL-27">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
