@@ -1,16 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="27.2.0">
   <diagram name="Page-1" id="Zs2zb_Z7UWNbtR0huE5W">
-    <mxGraphModel dx="981" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O-OZEPHUxFLN-eJPWsJB-1" value="Quotation Creation" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-1" value="Quotation Creation" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="86" y="49" width="700" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="O-OZEPHUxFLN-eJPWsJB-3" value="Sales User" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-1">
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-3" value="Sales User" style="swimlane;startSize=20;horizontal=0;html=1;fontSize=9;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-1">
           <mxGeometry y="20" width="700" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="O-OZEPHUxFLN-eJPWsJB-2" value="System" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-1">
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-5" value="&lt;div style=&quot;line-height: 90%;&quot; align=&quot;center&quot;&gt;&lt;font&gt;Ensure Terms &amp;amp; Conditions for languages&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=9;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-3">
+          <mxGeometry x="34" y="21" width="76" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-6" value="&lt;font&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-3">
+          <mxGeometry x="144" y="25.75" width="35.5" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-7" value="&lt;div style=&quot;line-height: 90%;&quot; align=&quot;center&quot;&gt;Open Quotation form&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=9;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-3">
+          <mxGeometry x="204" y="21" width="76" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-2" value="System" style="swimlane;startSize=20;horizontal=0;html=1;fontSize=9;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-1">
           <mxGeometry y="190" width="700" height="180" as="geometry" />
         </mxCell>
       </root>
