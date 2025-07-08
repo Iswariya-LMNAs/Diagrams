@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="27.2.0">
   <diagram name="Page-1" id="Zs2zb_Z7UWNbtR0huE5W">
-    <mxGraphModel dx="661" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,17 @@
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-3" value="Sales User" style="swimlane;startSize=20;horizontal=0;html=1;fontSize=9;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-1">
           <mxGeometry y="20" width="700" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-3" source="O-OZEPHUxFLN-eJPWsJB-5" target="O-OZEPHUxFLN-eJPWsJB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-5" value="&lt;div style=&quot;line-height: 90%;&quot; align=&quot;center&quot;&gt;&lt;font&gt;Ensure Terms &amp;amp; Conditions for languages&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=9;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-3">
           <mxGeometry x="34" y="21" width="76" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-3" source="O-OZEPHUxFLN-eJPWsJB-6" target="O-OZEPHUxFLN-eJPWsJB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-6" value="&lt;font&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-3">
-          <mxGeometry x="144" y="25.75" width="35.5" height="35.5" as="geometry" />
+          <mxGeometry x="144" y="22.75" width="35.5" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-7" value="&lt;div style=&quot;line-height: 90%;&quot; align=&quot;center&quot;&gt;Open Quotation form&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=9;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-3">
           <mxGeometry x="204" y="21" width="76" height="39" as="geometry" />
