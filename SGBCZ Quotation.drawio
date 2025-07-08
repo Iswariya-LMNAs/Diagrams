@@ -34,20 +34,20 @@
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-2" source="O-OZEPHUxFLN-eJPWsJB-14" target="O-OZEPHUxFLN-eJPWsJB-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-OZEPHUxFLN-eJPWsJB-14" value="Auto-fill Defaults-Order type,Quotation to &amp;amp; Dates&amp;nbsp; in Details" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-14" value="Auto-fill Defaults-Order type,Quotation to,currency,price list &amp;amp; Dates&amp;nbsp; in Details" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
           <mxGeometry x="204" y="41" width="76" height="39" as="geometry" />
         </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-2" source="O-OZEPHUxFLN-eJPWsJB-18" target="O-OZEPHUxFLN-eJPWsJB-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-OZEPHUxFLN-eJPWsJB-18" value="Auto-fetch customer name,Currency &amp;amp; price list in Details" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-18" value="Auto-fetch customer name" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
           <mxGeometry x="428" y="41" width="86" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="O-OZEPHUxFLN-eJPWsJB-19" value="Auto-fetch Billing,shipping &amp;amp; company address&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-19" value="Override-Currency &amp;amp; price list in Details based on customer" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
           <mxGeometry x="427" y="100" width="86" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="O-OZEPHUxFLN-eJPWsJB-21" value="Auto-fetch Terms &amp;amp; Details,Incoterms,Payment term template in terms based on print language&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
-          <mxGeometry x="536" y="41" width="86" height="39" as="geometry" />
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-21" value="Auto-fetch Billing,shipping &amp;amp; company address&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
+          <mxGeometry x="536" y="42" width="86" height="39" as="geometry" />
         </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-2" source="O-OZEPHUxFLN-eJPWsJB-43" target="O-OZEPHUxFLN-eJPWsJB-45">
           <mxGeometry relative="1" as="geometry" />
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-45" value="Auto-fill Defaults-Letter head,status,workflow state in More Info" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
           <mxGeometry x="322" y="101" width="76" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-49" value="Auto-fetch Terms &amp;amp; Details,Incoterms,Payment term template in terms based on print language&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
+          <mxGeometry x="536" y="100" width="86" height="39" as="geometry" />
         </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=7;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-1" source="O-OZEPHUxFLN-eJPWsJB-7" target="O-OZEPHUxFLN-eJPWsJB-14">
           <mxGeometry relative="1" as="geometry" />
