@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="27.2.0">
   <diagram name="Page-1" id="Zs2zb_Z7UWNbtR0huE5W">
-    <mxGraphModel dx="721" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="610" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-16" value="Select Customer" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-3">
           <mxGeometry x="324" y="21" width="76" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="O-OZEPHUxFLN-eJPWsJB-2" value="System" style="swimlane;startSize=20;horizontal=0;html=1;fontSize=8;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-1">
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-2" value="System" style="swimlane;startSize=20;horizontal=0;html=1;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-1">
           <mxGeometry y="190" width="700" height="180" as="geometry" />
         </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-14" value="Auto-fill Defaults-Order type,Quotation to &amp;amp; Dates&amp;nbsp; in Details" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
@@ -40,7 +40,7 @@
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-19" value="Auto-fetch Billing,shipping &amp;amp; company address&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
           <mxGeometry x="394" y="111" width="86" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="O-OZEPHUxFLN-eJPWsJB-21" value="Auto-fetch Incoterms,Terms &amp;amp; Details,Payment term template in terms based on language&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-21" value="Auto-fetch Terms &amp;amp; Details,Incoterms,Payment term template in terms based on print language&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-2">
           <mxGeometry x="504" y="41" width="86" height="39" as="geometry" />
         </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=7;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-1" source="O-OZEPHUxFLN-eJPWsJB-7" target="O-OZEPHUxFLN-eJPWsJB-14">
