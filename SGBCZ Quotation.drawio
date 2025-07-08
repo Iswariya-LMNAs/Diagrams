@@ -49,8 +49,18 @@
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-3" source="O-OZEPHUxFLN-eJPWsJB-69" target="O-OZEPHUxFLN-eJPWsJB-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-3" source="O-OZEPHUxFLN-eJPWsJB-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1125.9629629629628" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-72" value="Apply &lt;strong&gt;overall discount&lt;/strong&gt; to total quotation" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-3">
           <mxGeometry x="1088" y="80" width="76" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="O-OZEPHUxFLN-eJPWsJB-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="O-OZEPHUxFLN-eJPWsJB-3" source="O-OZEPHUxFLN-eJPWsJB-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="201" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="O-OZEPHUxFLN-eJPWsJB-73" value="Add &lt;strong&gt;2% discount&lt;/strong&gt; to each item" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=7;" vertex="1" parent="O-OZEPHUxFLN-eJPWsJB-3">
           <mxGeometry x="1088" y="10" width="76" height="39" as="geometry" />
