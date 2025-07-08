@@ -87,6 +87,9 @@
             <mxRectangle width="775" height="310" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JPz7TmFqemcX5jHhmIrL-27" value="Click View Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLJ9GDin2j8_AuySWexl-40">
+          <mxGeometry x="225" y="57" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="CLJ9GDin2j8_AuySWexl-41" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="CLJ9GDin2j8_AuySWexl-38" vertex="1">
           <mxGeometry x="1780" width="80" height="310" as="geometry">
             <mxRectangle width="80" height="310" as="alternateBounds" />
@@ -222,6 +225,9 @@
             <mxPoint x="2708" y="594" as="sourcePoint" />
             <mxPoint x="2709" y="889" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JPz7TmFqemcX5jHhmIrL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CLJ9GDin2j8_AuySWexl-37" source="JPz7TmFqemcX5jHhmIrL-13" target="JPz7TmFqemcX5jHhmIrL-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
