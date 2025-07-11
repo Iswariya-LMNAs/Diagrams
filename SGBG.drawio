@@ -10,34 +10,34 @@
         <mxCell id="EjVbdyezM8URKWamN-zJ-2" value="" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-1">
           <mxGeometry y="40" width="1610" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-3" value="Design Details" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
+        <mxCell id="EjVbdyezM8URKWamN-zJ-3" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
           <mxGeometry x="40" width="233" height="185" as="geometry">
             <mxRectangle width="233" height="185" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-4" value="Design High Voltage" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
+        <mxCell id="EjVbdyezM8URKWamN-zJ-4" value="Design Details" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
           <mxGeometry x="273" width="257" height="185" as="geometry">
             <mxRectangle width="257" height="185" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-5" value="Design Transformer Environment" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
+        <mxCell id="EjVbdyezM8URKWamN-zJ-5" value="Design High Voltage" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
           <mxGeometry x="530" width="210" height="185" as="geometry">
             <mxRectangle width="210" height="185" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-6" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
-          <mxGeometry x="740" width="152" height="185" as="geometry">
-            <mxRectangle width="152" height="185" as="alternateBounds" />
+        <mxCell id="EjVbdyezM8URKWamN-zJ-6" value="Design Transformer Environment" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
+          <mxGeometry x="740" width="250" height="185" as="geometry">
+            <mxRectangle width="250" height="185" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-7" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
-          <mxGeometry x="892" width="20" height="185" as="geometry">
-            <mxRectangle width="20" height="185" as="alternateBounds" />
+          <mxGeometry x="990" width="40" height="185" as="geometry">
+            <mxRectangle width="40" height="185" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
-          <mxGeometry x="912" width="175" height="185" as="geometry">
-            <mxRectangle width="175" height="185" as="alternateBounds" />
+          <mxGeometry x="1030" width="57" height="185" as="geometry">
+            <mxRectangle width="57" height="185" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-9" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
@@ -74,18 +74,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-16" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-12">
-          <mxGeometry x="740" width="152" height="185" as="geometry">
-            <mxRectangle width="152" height="185" as="alternateBounds" />
+          <mxGeometry x="740" width="250" height="185" as="geometry">
+            <mxRectangle width="250" height="185" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-17" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-12">
-          <mxGeometry x="892" width="20" height="185" as="geometry">
-            <mxRectangle width="20" height="185" as="alternateBounds" />
+          <mxGeometry x="990" width="40" height="185" as="geometry">
+            <mxRectangle width="40" height="185" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-18" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-12">
-          <mxGeometry x="912" width="175" height="185" as="geometry">
-            <mxRectangle width="175" height="185" as="alternateBounds" />
+          <mxGeometry x="1030" width="57" height="185" as="geometry">
+            <mxRectangle width="57" height="185" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-19" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-12">
