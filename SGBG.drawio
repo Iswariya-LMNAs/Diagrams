@@ -21,13 +21,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-5" value="Design High Voltage" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
-          <mxGeometry x="690" width="220" height="250" as="geometry">
-            <mxRectangle width="220" height="250" as="alternateBounds" />
+          <mxGeometry x="690" width="240" height="250" as="geometry">
+            <mxRectangle width="240" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-6" value="Design Transformer Environment" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
-          <mxGeometry x="910" width="250" height="250" as="geometry">
-            <mxRectangle width="250" height="250" as="alternateBounds" />
+          <mxGeometry x="930" width="230" height="250" as="geometry">
+            <mxRectangle width="230" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-9" value="Design Guaranties Values" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-2">
@@ -59,35 +59,62 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-33" value="Auto-fill Defaults-um,AC phase,L1 phase of LV in Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-14">
-          <mxGeometry x="189" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="157" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EjVbdyezM8URKWamN-zJ-14" source="EjVbdyezM8URKWamN-zJ-35" target="EjVbdyezM8URKWamN-zJ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-35" value="Auto-fill Defaults- vector group,THDI,IP&amp;amp; UK in Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-14">
+          <mxGeometry x="16" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-15" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-12">
-          <mxGeometry x="690" width="220" height="250" as="geometry">
-            <mxRectangle width="220" height="250" as="alternateBounds" />
+          <mxGeometry x="690" width="240" height="250" as="geometry">
+            <mxRectangle width="240" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-43" value="Auto-fill Defaults- Tapping plus/minus in High Voltage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-15">
-          <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-16" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-12">
-          <mxGeometry x="910" width="250" height="250" as="geometry">
-            <mxRectangle width="250" height="250" as="alternateBounds" />
+          <mxGeometry x="930" width="230" height="250" as="geometry">
+            <mxRectangle width="230" height="250" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-44" value="Auto-fill Defaults- Temperature rise &amp;amp; others in Transformer Environment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-16">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-19" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-12">
           <mxGeometry x="1160" width="250" height="250" as="geometry">
             <mxRectangle width="250" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-46" value="Auto-fill Defaults in Guarantee Values" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-19">
+          <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-20" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-12">
           <mxGeometry x="1410" width="240" height="250" as="geometry">
             <mxRectangle width="240" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-45" value="Auto-fill Defaults- currency in Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-20">
+          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-21" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="EjVbdyezM8URKWamN-zJ-12">
           <mxGeometry x="1650" width="40" height="250" as="geometry">
             <mxRectangle width="40" height="250" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EjVbdyezM8URKWamN-zJ-12" source="EjVbdyezM8URKWamN-zJ-33" target="EjVbdyezM8URKWamN-zJ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EjVbdyezM8URKWamN-zJ-12" source="EjVbdyezM8URKWamN-zJ-43" target="EjVbdyezM8URKWamN-zJ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EjVbdyezM8URKWamN-zJ-12" source="EjVbdyezM8URKWamN-zJ-44" target="EjVbdyezM8URKWamN-zJ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EjVbdyezM8URKWamN-zJ-12" source="EjVbdyezM8URKWamN-zJ-46" target="EjVbdyezM8URKWamN-zJ-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EjVbdyezM8URKWamN-zJ-28" target="EjVbdyezM8URKWamN-zJ-30">
           <mxGeometry relative="1" as="geometry" />
@@ -104,31 +131,11 @@
         <mxCell id="EjVbdyezM8URKWamN-zJ-30" value="Open Design Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-432" y="251" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EjVbdyezM8URKWamN-zJ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EjVbdyezM8URKWamN-zJ-31" target="EjVbdyezM8URKWamN-zJ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EjVbdyezM8URKWamN-zJ-31" value="Select Design Template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-287" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-35" value="Auto-fill Defaults- vector group,THDI,IP&amp;amp; UK in Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-141" y="517" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="92" y="596" as="targetPoint" />
-            <mxPoint x="92" y="573" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EjVbdyezM8URKWamN-zJ-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-31" y="627" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-41" value="Auto-fill Defaults in Guarantee Values" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="32" y="598" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-42" value="Auto-fill Defaults- currency in Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-152" y="598" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EjVbdyezM8URKWamN-zJ-44" value="Auto-fill Defaults- Temperature rise &amp;amp; others in Transformer Environment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
