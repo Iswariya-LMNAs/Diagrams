@@ -126,7 +126,7 @@
         <mxCell id="I9-Bo0b2mwKEJArJB-ll-167" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I9-Bo0b2mwKEJArJB-ll-10">
           <mxGeometry x="168" y="150" width="30" height="12.25" as="geometry" />
         </mxCell>
-        <mxCell id="I9-Bo0b2mwKEJArJB-ll-11" value="Quotation Terms" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=9;" vertex="1" parent="I9-Bo0b2mwKEJArJB-ll-2">
+        <mxCell id="I9-Bo0b2mwKEJArJB-ll-11" value="Discount Lookup" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=9;" vertex="1" parent="I9-Bo0b2mwKEJArJB-ll-2">
           <mxGeometry x="1081" width="859" height="250" as="geometry">
             <mxRectangle width="859" height="250" as="alternateBounds" />
           </mxGeometry>
