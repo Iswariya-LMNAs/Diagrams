@@ -143,7 +143,7 @@
           <mxGeometry x="35" y="98" width="68" height="63" as="geometry" />
         </mxCell>
         <mxCell id="s_FGLYSxigoL_fkBsZqZ-8" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I9-Bo0b2mwKEJArJB-ll-11">
-          <mxGeometry x="73" y="157" width="40" height="30" as="geometry" />
+          <mxGeometry x="60" y="152" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I9-Bo0b2mwKEJArJB-ll-12" value="Offer Lookup" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=9;" parent="I9-Bo0b2mwKEJArJB-ll-2" vertex="1">
           <mxGeometry x="1421" width="630" height="251" as="geometry">
