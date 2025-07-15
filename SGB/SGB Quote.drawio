@@ -151,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I9-Bo0b2mwKEJArJB-ll-53" value="Submit the Quotation" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=9;" parent="I9-Bo0b2mwKEJArJB-ll-12" vertex="1">
-          <mxGeometry x="517" y="89" width="76" height="39" as="geometry" />
+          <mxGeometry x="468" y="89" width="76" height="39" as="geometry" />
         </mxCell>
         <mxCell id="96Y8R74PH3aCacMJTz5c-153" value="Request for Approval (L1)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=9;" parent="I9-Bo0b2mwKEJArJB-ll-12" vertex="1">
           <mxGeometry x="308" y="80" width="76" height="39" as="geometry" />
@@ -284,11 +284,14 @@
             <mxRectangle width="630" height="229" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s_FGLYSxigoL_fkBsZqZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I9-Bo0b2mwKEJArJB-ll-25" source="I9-Bo0b2mwKEJArJB-ll-61" target="I9-Bo0b2mwKEJArJB-ll-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I9-Bo0b2mwKEJArJB-ll-61" value="Attach all Item Technical Datasheets" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=9;" parent="I9-Bo0b2mwKEJArJB-ll-25" vertex="1">
-          <mxGeometry x="581" y="44.5" width="76" height="39" as="geometry" />
+          <mxGeometry x="545" y="44.5" width="76" height="39" as="geometry" />
         </mxCell>
         <mxCell id="I9-Bo0b2mwKEJArJB-ll-181" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=9;" parent="I9-Bo0b2mwKEJArJB-ll-25" vertex="1">
-          <mxGeometry x="603" y="103.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="570" y="103.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="96Y8R74PH3aCacMJTz5c-1" value="L1 Approver" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=9;" parent="I9-Bo0b2mwKEJArJB-ll-1" vertex="1">
           <mxGeometry y="520" width="2051.000000000001" height="70" as="geometry" />
