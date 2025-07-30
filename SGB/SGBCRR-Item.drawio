@@ -1,18 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.6">
   <diagram name="Page-1" id="7nmeBrieRMO4y6cBd2v6">
-    <mxGraphModel dx="1056" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="817" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wHQ6A-BeQl_VT4TfjC7u-1" value="Item " style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="1340" height="380" as="geometry" />
+        <mxCell id="wHQ6A-BeQl_VT4TfjC7u-1" value="Item " style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="920" height="380" as="geometry" />
         </mxCell>
         <mxCell id="wHQ6A-BeQl_VT4TfjC7u-2" value="Sales Rep/Manager" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-1">
-          <mxGeometry y="40" width="1340" height="340" as="geometry" />
+          <mxGeometry y="40" width="920" height="340" as="geometry" />
         </mxCell>
         <mxCell id="wHQ6A-BeQl_VT4TfjC7u-3" value="Item Template Creation" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-2">
-          <mxGeometry x="40" width="830" height="340" as="geometry">
-            <mxRectangle width="830" height="340" as="alternateBounds" />
+          <mxGeometry x="40" width="880" height="340" as="geometry">
+            <mxRectangle width="880" height="340" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wHQ6A-BeQl_VT4TfjC7u-6" value="Start" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-3">
@@ -72,11 +72,6 @@
         </mxCell>
         <mxCell id="wHQ6A-BeQl_VT4TfjC7u-27" value="&lt;b&gt;Enter&lt;/b&gt;&lt;br&gt;Item Defaults in Accounting Tab" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-3">
           <mxGeometry x="553" y="178" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wHQ6A-BeQl_VT4TfjC7u-7" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-2">
-          <mxGeometry x="870" width="470" height="340" as="geometry">
-            <mxRectangle width="470" height="340" as="alternateBounds" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
