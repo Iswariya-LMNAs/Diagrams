@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wHQ6A-BeQl_VT4TfjC7u-6" value="Start" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-3">
-          <mxGeometry x="10" y="50" width="50" height="50" as="geometry" />
+          <mxGeometry x="10" y="55" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wHQ6A-BeQl_VT4TfjC7u-10" value="Create new Item" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-3">
           <mxGeometry x="100" y="50" width="120" height="60" as="geometry" />
@@ -40,6 +40,12 @@
         </mxCell>
         <mxCell id="wHQ6A-BeQl_VT4TfjC7u-18" value="&lt;b&gt;Enable&lt;br&gt;&lt;/b&gt;Has variant" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-3">
           <mxGeometry x="400" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wHQ6A-BeQl_VT4TfjC7u-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wHQ6A-BeQl_VT4TfjC7u-3" source="wHQ6A-BeQl_VT4TfjC7u-10" target="wHQ6A-BeQl_VT4TfjC7u-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wHQ6A-BeQl_VT4TfjC7u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wHQ6A-BeQl_VT4TfjC7u-3" source="wHQ6A-BeQl_VT4TfjC7u-6" target="wHQ6A-BeQl_VT4TfjC7u-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHQ6A-BeQl_VT4TfjC7u-7" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-2">
           <mxGeometry x="570" width="770" height="410" as="geometry">
