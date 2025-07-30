@@ -7,10 +7,10 @@
         <mxCell id="wHQ6A-BeQl_VT4TfjC7u-1" value="Item " style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="1340" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="wHQ6A-BeQl_VT4TfjC7u-2" value="Sales Rep/Manager" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-1">
+        <mxCell id="wHQ6A-BeQl_VT4TfjC7u-2" value="Sales Rep/Manager" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-1">
           <mxGeometry y="40" width="1340" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="wHQ6A-BeQl_VT4TfjC7u-3" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-2">
+        <mxCell id="wHQ6A-BeQl_VT4TfjC7u-3" value="Item Template Creation" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="wHQ6A-BeQl_VT4TfjC7u-2">
           <mxGeometry x="40" width="830" height="340" as="geometry">
             <mxRectangle width="830" height="340" as="alternateBounds" />
           </mxGeometry>
